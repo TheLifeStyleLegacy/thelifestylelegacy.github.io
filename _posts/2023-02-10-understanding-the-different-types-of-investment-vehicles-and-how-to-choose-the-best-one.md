@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Different Types of Investment Vehicles and How to Choose the Best One"
-    categories:  Money
-    tag: [Hashtags, investment, investing, stocks, bonds, mutualfunds, ETFs, realestate, commodities, financialgoals, risktolerance, timehorizon, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Different Types of Investment Vehicles and How to Choose the Best One"
+categories:  Money
+tag: [Hashtags, investment, investing, stocks, bonds, mutualfunds, ETFs, realestate, commodities, financialgoals, risktolerance, timehorizon, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Investing is a great way to grow your wealth and secure your financial future. But with so many different types of investment vehicles available, it can be difficult to know which one is right for you. In this article, we'll explore the different types of investment vehicles and how to choose the best one for your needs.
 

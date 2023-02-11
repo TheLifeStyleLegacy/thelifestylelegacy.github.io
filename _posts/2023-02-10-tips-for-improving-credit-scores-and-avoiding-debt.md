@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Tips for Improving Credit Scores and Avoiding Debt"
-    categories:  Money
-    tag: [Hashtags, CreditScore, Debt, CreditCards, Money, FinancialManagement, CreditCounseling, Budgeting, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Tips for Improving Credit Scores and Avoiding Debt"
+categories:  Money
+tag: [Hashtags, CreditScore, Debt, CreditCards, Money, FinancialManagement, CreditCounseling, Budgeting, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Having a good credit score is important for a variety of reasons. It can help you get approved for loans and credit cards, and can even affect your ability to get a job. It's important to understand how credit works and how to build and maintain a good credit score. Here are some tips for improving your credit score and avoiding debt.
 

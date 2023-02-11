@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Impact of Food Additives on Health"
-    categories:  Food
-    tag: [Hashtags, FoodAdditives, Health, Nutrition, FoodSafety, FoodLabeling, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Impact of Food Additives on Health"
+categories:  Food
+tag: [Hashtags, FoodAdditives, Health, Nutrition, FoodSafety, FoodLabeling, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 **Food additives** are substances added to food to enhance its flavor, texture, color, or shelf life. While some additives are beneficial, others can have a negative impact on our health. In this article, we will explore the potential health risks associated with food additives and how to identify them.
 

@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Different Types of Mortgages and How to Choose the Best One"
-    categories:  Money
-    tag: [Hashtags, mortgage, fixedrate, adjustablerate, governmentbacked, jumbo, financialgoals, shoparound, comparerates, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Different Types of Mortgages and How to Choose the Best One"
+categories:  Money
+tag: [Hashtags, mortgage, fixedrate, adjustablerate, governmentbacked, jumbo, financialgoals, shoparound, comparerates, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 When it comes to buying a home, one of the most important decisions you will make is choosing the right mortgage. With so many different types of mortgages available, it can be difficult to know which one is best for you. In this article, we will explore the different types of mortgages and how to choose the best one for your needs.
 

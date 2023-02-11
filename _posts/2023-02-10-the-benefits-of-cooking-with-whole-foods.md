@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Benefits of Cooking with Whole Foods"
-    categories:  Food
-    tag: [wholefoods, cooking, health, nutrition, weightloss, digestion, disease, energy, fruits, vegetables, leanproteins, grains, snacks, processedfoods, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Benefits of Cooking with Whole Foods"
+categories:  Food
+tag: [wholefoods, cooking, health, nutrition, weightloss, digestion, disease, energy, fruits, vegetables, leanproteins, grains, snacks, processedfoods, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Cooking with whole foods is an increasingly popular trend that has become a staple in many people's diets. Whole foods are unprocessed and unrefined foods that are free of additives, preservatives, and other artificial ingredients. They are nutrient-dense and offer a variety of health benefits. From improving digestion to aiding weight loss, cooking with whole foods can have a positive impact on your overall health. In this article, we'll discuss the benefits of cooking with whole foods and how to incorporate them into your diet.
 

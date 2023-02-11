@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Link between Physical Activity and Brain Health"
-    categories:  Health
-    tag: [Hashtags, PhysicalActivity, BrainHealth, MentalWellbeing, Exercise, HealthyLiving, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Link between Physical Activity and Brain Health"
+categories:  Health
+tag: [Hashtags, PhysicalActivity, BrainHealth, MentalWellbeing, Exercise, HealthyLiving, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 **Physical activity is essential for our overall health and wellbeing, but did you know that it can also have a positive impact on our brain health?**
 

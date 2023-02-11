@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Tips for Promoting Healthy Self-Esteem in Children"
-    categories:  Parenting
-    tag: [Parenting, SelfEsteem, PositiveSelfTalk, HealthyHabits, RealisticExpectations, CelebrateAccomplishments, ModelSelfEsteem, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Tips for Promoting Healthy Self-Esteem in Children"
+categories:  Parenting
+tag: [Parenting, SelfEsteem, PositiveSelfTalk, HealthyHabits, RealisticExpectations, CelebrateAccomplishments, ModelSelfEsteem, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 As a parent, it can be difficult to know how to best help your child develop healthy self-esteem. Self-esteem is an important part of a child's development, and it is essential for them to feel good about themselves and their abilities. Fortunately, there are many ways to help your child build healthy self-esteem. Here are some tips for promoting healthy self-esteem in children:
 

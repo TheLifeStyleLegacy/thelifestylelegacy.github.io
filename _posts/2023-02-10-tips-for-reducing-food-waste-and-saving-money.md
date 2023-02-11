@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Tips for Reducing Food Waste and Saving Money"
-    categories:  Food
-    tag: [Hashtags, FoodWaste, ReduceFoodWaste, SaveMoney, MealPlanning, FoodStorage, Leftovers, Composting, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Tips for Reducing Food Waste and Saving Money"
+categories:  Food
+tag: [Hashtags, FoodWaste, ReduceFoodWaste, SaveMoney, MealPlanning, FoodStorage, Leftovers, Composting, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 **Food waste is a major issue in the world today. It not only affects the environment, but it also affects your wallet. With the right knowledge and strategies, you can reduce food waste and save money.**
 

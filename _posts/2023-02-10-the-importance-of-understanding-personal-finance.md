@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Importance of Understanding Personal Finance"
-    categories:  Money
-    tag: [Hashtags, personalfinance, budgeting, saving, investing, retirement, taxes, insurance, fraud, identitytheft, financialadvisor, mentor, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Importance of Understanding Personal Finance"
+categories:  Money
+tag: [Hashtags, personalfinance, budgeting, saving, investing, retirement, taxes, insurance, fraud, identitytheft, financialadvisor, mentor, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Having a good understanding of personal finance is essential for living a successful and secure life. It is not only important for managing your money but also for making smart decisions about investments, taxes, and other financial matters. Unfortunately, many people are not aware of the importance of personal finance and do not take the time to learn about it. 
 

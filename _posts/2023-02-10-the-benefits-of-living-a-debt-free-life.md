@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Benefits of Living a Debt-Free Life"
-    categories:  Money
-    tag: [Hashtags, DebtFreeLiving, FinancialSecurity, Freedom, StressRelief, Budgeting, Investing, Savings, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Benefits of Living a Debt-Free Life"
+categories:  Money
+tag: [Hashtags, DebtFreeLiving, FinancialSecurity, Freedom, StressRelief, Budgeting, Investing, Savings, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Living a debt-free life is a goal that many people strive for, but few actually achieve. It can be difficult to break free from the cycle of debt and build a secure financial future. But the rewards of living a debt-free life are worth the effort. In this blog post, we'll explore the benefits of living a debt-free life and how to achieve it.
 

@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Impact of Fast Food on Health"
-    categories:  Food
-    tag: [Hashtags, FastFood, HealthyChoices, HealthyEating, Nutrition, HealthyLiving, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Impact of Fast Food on Health"
+categories:  Food
+tag: [Hashtags, FastFood, HealthyChoices, HealthyEating, Nutrition, HealthyLiving, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Fast food has become a staple in many people's diets, but it can have a serious impact on our health. The convenience of fast food often leads us to overlook the nutritional value of the food we are consuming. Eating too much fast food can lead to weight gain, heart disease, diabetes, and other health problems. In this article, we will explore the impact of fast food on our health and how to make healthier choices when eating out.
 

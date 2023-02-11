@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Importance of Creating a Budget and Sticking to It"
-    categories:  Money
-    tag: [Hashtags, budgeting, financialstability, financialgoals, savingmoney, payoffdebt, budgetingapp, budgetreview, moneymanagement, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Importance of Creating a Budget and Sticking to It"
+categories:  Money
+tag: [Hashtags, budgeting, financialstability, financialgoals, savingmoney, payoffdebt, budgetingapp, budgetreview, moneymanagement, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 **Creating a budget and sticking to it is one of the most important steps to achieving financial stability.** It is essential to understand the importance of budgeting and how to create a budget that works for you. A budget is a plan that helps you manage your money and reach your financial goals. It is important to create a budget that is realistic and achievable, and to stick to it.
 

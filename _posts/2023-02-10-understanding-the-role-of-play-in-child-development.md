@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Role of Play in Child Development"
-    categories:  Parenting
-    tag: [Hashtags, Play, ChildDevelopment, Parenting, Learning, Growth, Skills, Exploration, Experimentation, Communication, SocialSkills, PhysicalStrength, Coordination, Balance, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Role of Play in Child Development"
+categories:  Parenting
+tag: [Hashtags, Play, ChildDevelopment, Parenting, Learning, Growth, Skills, Exploration, Experimentation, Communication, SocialSkills, PhysicalStrength, Coordination, Balance, ]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
     
 **Play is essential for the healthy development of children.** It helps them to learn, grow, and develop important skills that will be beneficial to them throughout their lives. As parents, it is important to understand the role of play in child development and how to best support our children in their play. 
 

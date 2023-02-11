@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Benefits of Cooking with Seasonal Produce"
-    categories:  Food
-    tag: [Hashtags, SeasonalProduce, Cooking, Nutrition, LocalFarmers, FreshProduce, MealPrep, HealthyEating, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Benefits of Cooking with Seasonal Produce"
+categories:  Food
+tag: [Hashtags, SeasonalProduce, Cooking, Nutrition, LocalFarmers, FreshProduce, MealPrep, HealthyEating, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Cooking with seasonal produce is one of the best ways to ensure that you are getting the freshest and most flavorful ingredients possible. Not only does seasonal produce taste better, but it is also more nutritious and cost-effective. In this blog post, we'll explore the many benefits of cooking with seasonal produce and how you can incorporate it into your meals. 
 

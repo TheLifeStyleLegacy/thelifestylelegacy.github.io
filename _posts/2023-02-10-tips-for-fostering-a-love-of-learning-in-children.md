@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Tips for Fostering a Love of Learning in Children"
-    categories:  Parenting
-    tag: [LoveOfLearning, ParentingTips, EncourageCuriosity, ProvideOpportunities, ModelALoveOfLearning, MakeLearningFun, EncourageCreativity, PraiseEffort, BePatient, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Tips for Fostering a Love of Learning in Children"
+categories:  Parenting
+tag: [LoveOfLearning, ParentingTips, EncourageCuriosity, ProvideOpportunities, ModelALoveOfLearning, MakeLearningFun, EncourageCreativity, PraiseEffort, BePatient, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 As parents, it is our responsibility to ensure that our children develop a love of learning. It is important to instill in them a sense of curiosity and exploration, as well as the skills and knowledge necessary to succeed in life. Here are some tips to help foster a love of learning in your children:
 

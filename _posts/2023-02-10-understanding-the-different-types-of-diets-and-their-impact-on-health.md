@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Different Types of Diets and Their Impact on Health"
-    categories:  Food
-    tag: [Hashtags, Diets, Health, Nutrition, Nutrients, Fruits, Vegetables, WholeGrains, LeanProteins, HealthyFats, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Different Types of Diets and Their Impact on Health"
+categories:  Food
+tag: [Hashtags, Diets, Health, Nutrition, Nutrients, Fruits, Vegetables, WholeGrains, LeanProteins, HealthyFats, ]
+toc: false
+author_profile: false
+sidebar:
+nav: "counts"
+---
     
 It's no secret that what we eat can have a huge impact on our health. But with so many different diets out there, it can be hard to know which one is right for you. In this article, we'll take a look at the different types of diets and their impact on health. We'll also explore how to choose the right diet for you and how to make sure you're getting the nutrients you need.
 

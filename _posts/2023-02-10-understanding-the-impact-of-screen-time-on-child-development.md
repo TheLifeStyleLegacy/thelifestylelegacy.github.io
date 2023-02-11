@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Impact of Screen Time on Child Development"
-    categories:  Parenting
-    tag: [screentime, parenting, childdevelopment, mentalhealth, cyberbullying, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Impact of Screen Time on Child Development"
+categories:  Parenting
+tag: [screentime, parenting, childdevelopment, mentalhealth, cyberbullying, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 It is no secret that technology has become an integral part of our lives. From the moment we wake up, we are surrounded by screens. We use them for work, entertainment, communication, and even education. 
 

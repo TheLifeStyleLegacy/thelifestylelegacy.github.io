@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Role of Taxes in Personal Finance"
-    categories:  Money
-    tag: [Hashtags, Taxes, PersonalFinance, TaxPlanning, FinancialDecisions, MoneySaving, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Role of Taxes in Personal Finance"
+categories:  Money
+tag: [Hashtags, Taxes, PersonalFinance, TaxPlanning, FinancialDecisions, MoneySaving, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 **Taxes** are an important part of personal finance, yet many people don't understand the role they play in their financial lives. Understanding how taxes work and how to manage them can help you make better financial decisions and save money. In this article, we'll discuss the basics of taxes and how they affect your personal finances.
 

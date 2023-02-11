@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Importance of Open Communication and Active Listening in Parenting"
-    categories:  Parenting
-    tag: [parenting, opencommunication, activelistening, trust, understanding, guidance, support, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Importance of Open Communication and Active Listening in Parenting"
+categories:  Parenting
+tag: [parenting, opencommunication, activelistening, trust, understanding, guidance, support, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Parenting is one of the most important jobs in the world. It is a difficult job that requires a lot of patience, understanding, and communication. Open communication and active listening are two of the most important skills a parent can have in order to be successful. 
 

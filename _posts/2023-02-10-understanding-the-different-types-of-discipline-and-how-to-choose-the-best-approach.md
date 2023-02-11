@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Different Types of Discipline and How to Choose the Best Approach"
-    categories:  Parenting
-    tag: [Hashtags, discipline, parenting, positiveparenting, consequences, timeouts, logicalconsequences, childdevelopment, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Different Types of Discipline and How to Choose the Best Approach"
+categories:  Parenting
+tag: [Hashtags, discipline, parenting, positiveparenting, consequences, timeouts, logicalconsequences, childdevelopment, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Discipline is an important part of parenting and it can be difficult to know which approach is best for your child. Every parent wants to raise a happy, well-adjusted child, but the methods of discipline can vary greatly. It is important to understand the different types of discipline and how to choose the best approach for your family.
 

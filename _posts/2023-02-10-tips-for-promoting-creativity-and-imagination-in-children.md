@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Tips for Promoting Creativity and Imagination in Children"
-    categories:  Parenting
-    tag: [CreativityAndImagination, PromotingCreativity, EncourageExploration, ProvideMaterials, ReadBooks, PretendPlay, CreativeSpace, HaveFun, Parenting, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Tips for Promoting Creativity and Imagination in Children"
+categories:  Parenting
+tag: [CreativityAndImagination, PromotingCreativity, EncourageExploration, ProvideMaterials, ReadBooks, PretendPlay, CreativeSpace, HaveFun, Parenting, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 As parents, it is our responsibility to nurture our children's creativity and imagination. It is essential for their development and growth. However, it can be difficult to know how to do this. Here are some tips to help promote creativity and imagination in children.
 

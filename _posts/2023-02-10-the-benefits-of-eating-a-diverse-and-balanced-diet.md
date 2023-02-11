@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Benefits of Eating a Diverse and Balanced Diet"
-    categories:  Food
-    tag: [HealthyEating, Nutrition, HealthyLifestyle, BalanceDiet, DietTips, HealthyLiving, HealthyChoices, HealthyFood, HealthyBody, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Benefits of Eating a Diverse and Balanced Diet"
+categories:  Food
+tag: [HealthyEating, Nutrition, HealthyLifestyle, BalanceDiet, DietTips, HealthyLiving, HealthyChoices, HealthyFood, HealthyBody, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Eating a diverse and balanced diet is one of the most important things you can do to maintain your health and well-being. A balanced diet provides the body with the essential nutrients it needs to function properly and can help reduce the risk of developing chronic diseases. Eating a variety of foods from all the food groups is key to getting the nutrients your body needs. Here are some of the benefits of eating a diverse and balanced diet.
 

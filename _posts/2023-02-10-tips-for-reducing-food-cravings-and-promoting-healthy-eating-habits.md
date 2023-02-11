@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Tips for Reducing Food Cravings and Promoting Healthy Eating Habits"
-    categories:  Food
-    tag: [Hashtags, HealthyEating, FoodCravings, ReduceCravings, HealthGoals, EatingMindfully, ExercisingRegularly, GettingSupport, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Tips for Reducing Food Cravings and Promoting Healthy Eating Habits"
+categories:  Food
+tag: [Hashtags, HealthyEating, FoodCravings, ReduceCravings, HealthGoals, EatingMindfully, ExercisingRegularly, GettingSupport, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 We all have cravings for unhealthy foods from time to time. But when these cravings become too frequent, it can be difficult to maintain a healthy diet. Fortunately, there are some simple tips that can help you reduce your food cravings and promote healthy eating habits. In this article, we'll discuss some of these tips and how they can help you reach your health goals.
 

@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Benefits of Meal Planning and Preparation"
-    categories:  Food
-    tag: [mealplanning, mealprep, healthyeating, timeandsavings, stressreduction, nutrition, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Benefits of Meal Planning and Preparation"
+categories:  Food
+tag: [mealplanning, mealprep, healthyeating, timeandsavings, stressreduction, nutrition, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Meal planning and preparation can be a great way to save time and money, while also ensuring you and your family are eating healthy, nutritious meals. With a little bit of effort and planning, you can make sure that you are eating healthy and delicious meals every day. Here are some of the benefits of meal planning and preparation.
 

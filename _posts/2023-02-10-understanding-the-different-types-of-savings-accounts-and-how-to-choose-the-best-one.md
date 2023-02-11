@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Understanding the Different Types of Savings Accounts and How to Choose the Best One"
-    categories:  Money
-    tag: [Hashtags, savingsaccounts, financialplanning, savingmoney, interestrates, bankaccounts, creditunions, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Understanding the Different Types of Savings Accounts and How to Choose the Best One"
+categories:  Money
+tag: [Hashtags, savingsaccounts, financialplanning, savingmoney, interestrates, bankaccounts, creditunions, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Saving money is an important part of financial planning. It’s important to understand the different types of savings accounts and how to choose the best one for your needs. This article will provide an overview of the different types of savings accounts, the benefits of each, and how to choose the best one for you.
 

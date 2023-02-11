@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Tips for Reducing Spending and Saving Money"
-    categories:  Money
-    tag: [Hashtags, MoneySavingTips, Budgeting, ReduceSpending, SaveMoney, Discounts, PublicTransportation, NegotiateBills, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Tips for Reducing Spending and Saving Money"
+categories:  Money
+tag: [Hashtags, MoneySavingTips, Budgeting, ReduceSpending, SaveMoney, Discounts, PublicTransportation, NegotiateBills, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 **Are you looking for ways to save money and reduce your spending?** It can be hard to keep up with the rising cost of living, but there are ways to save money and reduce your spending. In this article, we’ll look at some tips for reducing spending and saving money.
 

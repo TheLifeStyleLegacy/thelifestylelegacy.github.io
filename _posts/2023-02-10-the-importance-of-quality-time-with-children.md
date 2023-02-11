@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Importance of Quality Time with Children"
-    categories:  Parenting
-    tag: [Hashtags, QualityTime, Parenting, Children, Development, Bonding, Communication, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Importance of Quality Time with Children"
+categories:  Parenting
+tag: [Hashtags, QualityTime, Parenting, Children, Development, Bonding, Communication, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 **As parents, it is essential to spend quality time with our children. Quality time is not only important for a child’s emotional and mental development, but it also helps to build a strong bond between parent and child. Quality time with children can be spent in many ways, including playing games, reading stories, going for walks, and even just talking.**
 

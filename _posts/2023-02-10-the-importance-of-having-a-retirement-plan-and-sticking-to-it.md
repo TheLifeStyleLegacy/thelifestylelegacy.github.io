@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Importance of Having a Retirement Plan and Sticking to It"
-    categories:  Money
-    tag: [RetirementPlanning, FinancialPlanning, RetirementGoals, RetirementSavings, RetirementInvestment, RetirementRisks, RetirementComfort, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Importance of Having a Retirement Plan and Sticking to It"
+categories:  Money
+tag: [RetirementPlanning, FinancialPlanning, RetirementGoals, RetirementSavings, RetirementInvestment, RetirementRisks, RetirementComfort, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 **Retirement planning is an important part of financial planning. It is essential to plan for retirement early and stick to the plan to ensure a comfortable retirement.** Retirement planning involves setting goals, evaluating current financial situation, and creating a plan that will help you achieve those goals. It is important to have a retirement plan in place to ensure that you have enough money to live comfortably in your retirement years.
 

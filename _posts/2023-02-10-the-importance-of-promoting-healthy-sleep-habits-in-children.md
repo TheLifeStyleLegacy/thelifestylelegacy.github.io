@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Importance of Promoting Healthy Sleep Habits in Children"
-    categories:  Parenting
-    tag: [PromotingHealthySleepHabits, SleepHabits, SleepTips, Parenting, HealthySleep, SleepWell, SleepBetter, SleepHealth, SleepHygiene, SleepRoutine, SleepMatters, SleepDeprivation, SleepAwareness, SleepyTime, SleepyHeads, SleepyKids, SleepyBabies, SleepyToddlers, SleepyTeens, SleepyAdults, SleepyMoms, SleepyDads, SleepyParents, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Importance of Promoting Healthy Sleep Habits in Children"
+categories:  Parenting
+tag: [PromotingHealthySleepHabits, SleepHabits, SleepTips, Parenting, HealthySleep, SleepWell, SleepBetter, SleepHealth, SleepHygiene, SleepRoutine, SleepMatters, SleepDeprivation, SleepAwareness, SleepyTime, SleepyHeads, SleepyKids, SleepyBabies, SleepyToddlers, SleepyTeens, SleepyAdults, SleepyMoms, SleepyDads, SleepyParents, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 **Sleep is an essential part of a child’s development and health. As parents, it is important to ensure that our children are getting enough sleep and that they are developing healthy sleep habits.**
 

@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "Tips for Reducing Food Allergies and Intolerances"
-    categories:  Food
-    tag: [Hashtags, FoodAllergies, FoodIntolerances, AllergyMedication, BalancedDiet, ProcessedFoods, FoodLabels, TriggerFoods, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "Tips for Reducing Food Allergies and Intolerances"
+categories:  Food
+tag: [Hashtags, FoodAllergies, FoodIntolerances, AllergyMedication, BalancedDiet, ProcessedFoods, FoodLabels, TriggerFoods, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Food allergies and intolerances can be a difficult and frustrating condition to manage. Symptoms can range from mild to severe, and can be life-threatening in some cases. Fortunately, there are a number of steps you can take to reduce your risk of developing food allergies and intolerances. In this article, we'll discuss some of the best tips for reducing food allergies and intolerances.
 

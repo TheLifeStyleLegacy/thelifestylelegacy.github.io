@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Benefits of Spending Time Outdoors for Mental and Physical Health"
-    categories:  Health
-    tag: [Hashtags, Outdoors, MentalHealth, PhysicalHealth, HealthBenefits, Nature, StressReduction, MoodImprovement, Focus, Depression, PhysicalActivity, SleepQuality, CancerPrevention, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Benefits of Spending Time Outdoors for Mental and Physical Health"
+categories:  Health
+tag: [Hashtags, Outdoors, MentalHealth, PhysicalHealth, HealthBenefits, Nature, StressReduction, MoodImprovement, Focus, Depression, PhysicalActivity, SleepQuality, CancerPrevention, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Spending time outdoors is one of the most beneficial activities for both mental and physical health. From reducing stress and improving mood to increasing physical activity and improving overall health, there are many benefits of spending time outdoors. In this article, we will explore the various ways that spending time outdoors can help improve your mental and physical health.
 

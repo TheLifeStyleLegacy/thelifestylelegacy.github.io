@@ -1,13 +1,13 @@
 ---
-    layout: single
-    title:  "The Benefits of Fostering a Love of Reading in Children"
-    categories:  Parenting
-    tag: [ReadingIsPower, ReadingForKids, FosteringALoveOfReading, ParentingTips, ReadingBenefits, ]
-    toc: false
-    author_profile: false
-    sidebar:
-        nav: "counts"
-    ---
+layout: single
+title:  "The Benefits of Fostering a Love of Reading in Children"
+categories:  Parenting
+tag: [ReadingIsPower, ReadingForKids, FosteringALoveOfReading, ParentingTips, ReadingBenefits, ]
+toc: false
+author_profile: false
+sidebar:
+    nav: "counts"
+---
     
 Reading is an essential part of a child’s development. It helps to build their imagination, expand their knowledge, and develop their language skills. As parents, it is important to foster a love of reading in our children from a young age. Doing so can have a positive impact on their academic success, social skills, and overall wellbeing.
 
